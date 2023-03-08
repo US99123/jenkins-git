@@ -7,7 +7,7 @@ pipeline {
                 bat '''
                     echo "Multiline shell steps works too."
                 '''
-				bat 'echo "Hello "'
+				bat 'echo "Hello there"'
 				
             }
         }
